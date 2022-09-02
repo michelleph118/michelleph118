@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47hxvg5k1s101njz7xwjd4dirm05p76k4qbkg68fr4&rid=200w.webp&ct=g" width="100"/>
+  <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47hxvg5k1s101njz7xwjd4dirm05p76k4qbkg68fr4&rid=200w.webp&ct=g" width="200"/>
 </div>
 <div id="header" align="center">
  <h4> <em> Hey there 👋 </em> </h4> <br>
@@ -11,7 +11,7 @@
   👇 👇 👇 <br>
  😄 Hi, I am @michelleph118 from Vietnam 🇻🇳 <br>
  👀 I'm interested in Science and Technology 💻 📱 <br>  
- 🔭 I’m currently living in Hamburg ⚓ and studying Computer Science 🖱️ <br>
+ 🔭 I’m currently living in Hamburg, Germany ⚓ and studying Computer Science 🖱️ <br>
  📫 Reach me at: *<em>coming soon</em>* 😅
  
  
