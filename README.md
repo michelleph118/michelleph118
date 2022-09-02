@@ -9,7 +9,7 @@
 </div>
   :woman_technologist: About me:<br>
   👇 👇 👇 <br>
- 😄 Hi, I am @michellepham118 from Vietnam 🇻🇳 <br>
+ 😄 Hi, I am @michelleph118 from Vietnam 🇻🇳 <br>
  👀 I'm interested in Science and Technology 💻 📱 <br>  
  🔭 I’m currently living in Hamburg ⚓ and studying Computer Science 🖱️ <br>
  📫 Reach me at: *<em>coming soon</em>* 😅
